@@ -1,7 +1,9 @@
 # reyes-u2l-exercise02
 
 Full Name: Mark Andrei M. Reyes
+
 Degree Program: BS in Computer Science
+
 Live Website link: https://mrkreyes.github.io/reyes-u2l-exercise02/
 
 Steps on how to create GitHub page:
